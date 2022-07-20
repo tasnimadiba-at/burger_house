@@ -1,0 +1,10 @@
+font-family: 'Alfa Slab One', cursive;
+font-family: 'Bebas Neue', cursive;
+font-family: 'Montserrat', sans-serif;
+font-weight: 400
+font-weight: 700
+
+back
+orange #ffc657
+text
+brown #3d2514
